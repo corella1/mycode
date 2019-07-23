@@ -11,3 +11,9 @@ singleip = ".".join(myiplist)
 
 print(singleip)
 
+
+test_string = "   Alta3 Research offers classes on Python coding   "
+nospace = test_string.strip()
+print(test_string)
+print(nospace)
+
